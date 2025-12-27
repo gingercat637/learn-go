@@ -27,3 +27,4 @@ go.work.sum
 # 打包文件
 /tmp
 .air.toml
+/bin
