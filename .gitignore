@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+
+# 打包文件
+/tmp
+.air.toml
