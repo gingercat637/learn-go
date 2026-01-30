@@ -28,3 +28,6 @@ go.work.sum
 /tmp
 /bin
 .air.toml
+
+# 日志
+/logs
